@@ -10,7 +10,7 @@
   "dependencies": {
     "@bluebeela/nextjs-shopify-auth": "^1.0.0",
     "@shopify/app-bridge-react": "^1.15.0",
-    "@shopify/polaris": "^5.3.1",
+    "@shopify/polaris": "^10.10.1",
     "apollo-boost": "^0.4.4",
     "cookie": "^0.4.1",
     "cross-env": "^7.0.2",
